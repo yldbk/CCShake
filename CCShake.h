@@ -1,6 +1,6 @@
 #pragma once
 
-#include <CCActionInterval.h>
+#include "2d/CCActionInterval.h"
 
 class Shake : public cocos2d::ActionInterval
 {
